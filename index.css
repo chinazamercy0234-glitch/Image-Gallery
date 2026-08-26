@@ -1,0 +1,43 @@
+body{
+    background-color: floralwhite;
+}
+.first img{
+    width: 300px;
+    height: 300px;
+}
+.second img{
+    width: 300px;
+    height: 300px;
+}
+.first{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    margin: 50px;
+    gap: 200px;
+}
+.second{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    margin: 50px;
+    gap: 200px;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    gap: 75%;
+}
+.first1{
+    border: 2px solid burlywood;
+}
+.second1{
+    border: 2px solid burlywood;
+}
+.third{
+    border: 2px solid burlywood;
+}
