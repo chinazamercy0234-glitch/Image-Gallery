@@ -1,6 +1,9 @@
 body{
     background-color: floralwhite;
 }
+h1{
+    font-size: 100px;
+}
 .first img{
     width: 300px;
     height: 300px;
